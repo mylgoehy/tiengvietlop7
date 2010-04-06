@@ -1,13 +1,1 @@
-#summary One-sentence summary of this page.
-
-= Introduction = hello
-
-Add your content here.
-
-
-= Details = Các bạn có ý kiến j thì comment
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Các bạn có ý kiến j thì comment
