@@ -17,6 +17,7 @@ namespace Temp
     {
         public Page1()
         {
+            Application.Current.Host.Content.IsFullScreen = true;
             InitializeComponent();
         }
 

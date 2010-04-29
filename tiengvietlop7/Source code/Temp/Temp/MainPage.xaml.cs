@@ -15,6 +15,7 @@ namespace Temp
 		public MainPage()
 		{
 			// Required to initialize variables
+            Application.Current.Host.Content.IsFullScreen = true;
 			InitializeComponent();
 		}
 

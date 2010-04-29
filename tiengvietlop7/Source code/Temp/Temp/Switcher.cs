@@ -17,14 +17,12 @@ namespace Temp
 
         public static void Switch(UserControl newPage)
         {
-
             if (pageSwitcher != null)
             {
                 pageSwitcher.Navigate(newPage);
             }
             else
             {
-
                 throw new Exception("Switcher.pageSwitcher is null");
             }
         }
