@@ -9,6 +9,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
+using System.Windows.Interop;
 
 namespace Temp
 {
@@ -17,9 +18,9 @@ namespace Temp
 		public App()
 		{
 			this.Startup += this.Application_Startup;
+            Application.Current.Host.Content.IsFullScreen = true;
 			this.Exit += this.Application_Exit;
 			this.UnhandledException += this.Application_UnhandledException;
-
 			InitializeComponent();
 		}
 
@@ -29,6 +30,7 @@ namespace Temp
             this.RootVisual = pageSwitcher;
             Switcher.pageSwitcher = pageSwitcher;
             Switcher.Switch(new MainPage());
+            Application.Current.Host.Content.IsFullScreen = true;
 		}
 
 		private void Application_Exit(object sender, EventArgs e)
