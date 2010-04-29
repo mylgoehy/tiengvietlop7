@@ -1,0 +1,50 @@
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\PageSwitcher.g.cs
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\favicon.ico
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\Temp.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\Temp.pdb
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\Temp.xap
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\TestPage.html
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\Temp.g.resources
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\Temp.dll
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\Temp.pdb
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Temp\Temp\obj\Debug\LyThuyet.g.cs
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\favicon.ico
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\Temp.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\Temp.pdb
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\Temp.xap
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\TestPage.html
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\LyThuyet.g.cs
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\PageSwitcher.g.cs
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\Temp.g.resources
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\Temp.dll
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\Temp.pdb
+C:\Users\Administrator\Desktop\Source code\Temp\Temp\obj\Debug\XapCacheFile.xml
