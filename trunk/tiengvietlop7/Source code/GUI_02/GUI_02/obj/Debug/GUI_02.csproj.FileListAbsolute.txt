@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\bin\Debug\GUI_02.exe
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\bin\Debug\GUI_02.pdb
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\GUI_02_MarkupCompile.cache
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\GUI_02.g.resources
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\GUI_02.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\GUI_02.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\GUI_02.exe
+C:\Users\Administrator\Desktop\GUI_02\GUI_02\obj\Debug\GUI_02.pdb
