@@ -1,0 +1,31 @@
+﻿<Window x:Class="TiengViet7.GrammarPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="GrammarPage" Height="768" Width="1024" WindowState="Maximized" WindowStyle="None" Loaded="GrammarPage_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Background_02.jpg" Stretch="Fill" />
+    </Window.Background>
+    <Grid>
+        <ListBox Style="{DynamicResource GlassListBox}" Margin="12,156,474,185" Name="GrammarLessonList">
+            <ListBoxItem>Bài 1</ListBoxItem>
+            <ListBoxItem>Bài 2</ListBoxItem>
+            <ListBoxItem>Bài 3</ListBoxItem>
+            <ListBoxItem>Bài 4</ListBoxItem>
+            <ListBoxItem>Bài 5</ListBoxItem>
+            <ListBoxItem>Bài 6</ListBoxItem>
+            <ListBoxItem>Bài 7</ListBoxItem>
+            <ListBoxItem>Bài 8</ListBoxItem>
+            <ListBoxItem>Bài 9</ListBoxItem>
+            <ListBoxItem>Bài 10</ListBoxItem>
+            <ListBoxItem>Bài 11</ListBoxItem>
+            <ListBoxItem>Bài 12</ListBoxItem>
+        </ListBox>
+        
+        <Rectangle Margin="12,12,34,0" Name="Banner" Stroke="#99FFFFFF" StrokeThickness="5" Fill="#88000000" RadiusX="25" RadiusY="25" Height="113" VerticalAlignment="Top" />
+        <Canvas  ClipToBounds="True" Name="canMain" Margin="20,12,43,0" Height="113" VerticalAlignment="Top">
+            <TextBlock Height="68" Margin="62,33,47,0" Name="tbmarquee" VerticalAlignment="Top" Text="Học Ngữ Pháp Tiếng Việt" FontSize="48" Foreground="Aquamarine" HorizontalAlignment="Center" Canvas.Left="-33" Canvas.Top="-6" Width="587" />
+        </Canvas>
+        
+        <Button Style="{DynamicResource GlassButton}" Margin="38,0,0,42" Name="BackButton" Click="BackButton_Click" Height="92" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="242">Back</Button>
+    </Grid>
+</Window>
