@@ -19,3 +19,5 @@ E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\TiengViet7\o
 E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\TiengViet7\obj\Debug\App.baml
 E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\TiengViet7\obj\Debug\GrammarPage.baml
 E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\TiengViet7\obj\Debug\GrammarPage.g.cs
+E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\TiengViet7\obj\Debug\LessonPage.baml
+E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\TiengViet7\obj\Debug\LessonPage.g.cs
