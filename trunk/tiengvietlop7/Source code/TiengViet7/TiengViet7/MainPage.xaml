@@ -1,0 +1,25 @@
+﻿<Window x:Class="TiengViet7.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Chương Trình Dạy Tiếng Việt Lớp 7" Height="768" Width="1024" WindowState="Maximized" WindowStyle="None" Loaded="MainPage_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Background_01.jpg" Stretch="Fill" />
+    </Window.Background>
+    <Grid>
+        <!-- Draw banner -->
+        <Rectangle Margin="12,12,12,0" Name="Banner" Stroke="#99FFFFFF" StrokeThickness="5" Fill="#88000000" RadiusX="25" RadiusY="25" Height="113" VerticalAlignment="Top" />
+        <Canvas  ClipToBounds="True" Name="canMain" Margin="20,12,20,0" Height="113" VerticalAlignment="Top">
+            <TextBlock Height="68" Margin="62,33,47,0" Name="tbmarquee" VerticalAlignment="Top" Text="Chương Trình Học Tiếng Việt Lớp 7" FontSize="48" Foreground="Aquamarine" HorizontalAlignment="Center" Canvas.Left="17" Canvas.Top="-6" Width="759" />
+        </Canvas>
+        <!-- Draw Ngu Phap Button -->
+        <Button Style="{DynamicResource GlassButton}" Margin="99,175,0,0" Name="GrammarButton" Click="GrammarButton_Click" Height="92" VerticalAlignment="Top" HorizontalAlignment="Left" Width="305">Ngữ Pháp</Button>
+        <!-- Draw Van Hoc Button -->
+        <Button Style="{DynamicResource GlassButton}" Margin="99,300,0,338" Name="LessonButton" Click="LessonButton_Click" HorizontalAlignment="Left" Width="305" Height="92">Văn Học</Button>
+        <!-- Draw Tap Lam Van Button -->
+        <Button Style="{DynamicResource GlassButton}" Margin="0,175,119,0" Name="CompositionButton" Height="92" Click="CompositionButton_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Width="305">Tập Làm Văn</Button>
+        <!-- Draw Doc Them Button -->
+        <Button Style="{DynamicResource GlassButton}" Margin="0,300,119,338" Name="ReadMoreButton" Click="ReadMoreButton_Click" HorizontalAlignment="Right" Width="305" Height="92">Đọc Thêm</Button>
+        <!-- Draw Exit Button -->
+        <Button Style="{DynamicResource GlassButton}" Margin="0,0,119,42" Name="ExitButton" Click="ExitButton_Click" Height="92" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="305">Thoát</Button>
+    </Grid>
+</Window>
