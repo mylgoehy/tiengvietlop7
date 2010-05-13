@@ -47,5 +47,11 @@ namespace TiengViet7
         {
             this.Close();
         }
+  
+        private void Bai_01_Click(object sender, RoutedEventArgs e)
+        {
+            GrammarPageDetail grammarPageDetail = new GrammarPageDetail();
+            grammarPageDetail.Show();
+        }
     }
 }

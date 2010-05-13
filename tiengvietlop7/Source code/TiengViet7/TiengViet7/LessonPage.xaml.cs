@@ -47,5 +47,11 @@ namespace TiengViet7
         {
             LeftToRightMarquee();
         }
+
+        private void Bai_01_Click(object sender, RoutedEventArgs e)
+        {
+            LessonPageDetail lessonPageDetail = new LessonPageDetail();
+            lessonPageDetail.Show();
+        }
     }
 }
