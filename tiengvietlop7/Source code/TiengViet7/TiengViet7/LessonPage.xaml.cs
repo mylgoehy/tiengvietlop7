@@ -25,29 +25,15 @@ namespace TiengViet7
         }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
-        {
+        {      
             MainPage mainPage = new MainPage();
             mainPage.Show();
             this.Close();
         }
 
-        double _marqueeTimeInSeconds = 7;
-
-        private void LeftToRightMarquee()
-        {
-            double height = canMain.ActualHeight - tbmarquee.ActualHeight;
-            tbmarquee.Margin = new Thickness(0, height / 2, 0, 0);
-            DoubleAnimation doubleAnimation = new DoubleAnimation();
-            doubleAnimation.From = -tbmarquee.ActualWidth;
-            doubleAnimation.To = canMain.ActualWidth;
-            doubleAnimation.RepeatBehavior = RepeatBehavior.Forever;
-            doubleAnimation.Duration = new Duration(TimeSpan.FromSeconds(_marqueeTimeInSeconds));
-            tbmarquee.BeginAnimation(Canvas.LeftProperty, doubleAnimation);
-        }
-
         private void LessonPage_Loaded(object sender, RoutedEventArgs e)
         {
-            LeftToRightMarquee();
+            
         }
 
         private void Bai_01_Click(object sender, RoutedEventArgs e)

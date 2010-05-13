@@ -19,28 +19,33 @@ namespace TiengViet7
     /// </summary>
     public partial class MainPage : Window
     {
+        
+
         public MainPage()
         {
             InitializeComponent();
         }
 
-        double _marqueeTimeInSeconds = 7;
-
+        //double _marqueeTimeInSeconds = 7;
+        /*
         private void LeftToRightMarquee()
         {
-            double height = canMain.ActualHeight - tbmarquee.ActualHeight;
+            //double height = canMain.ActualHeight - tbmarquee.ActualHeight;
             tbmarquee.Margin = new Thickness(0, height / 2, 0, 0);
             DoubleAnimation doubleAnimation = new DoubleAnimation();
             doubleAnimation.From = -tbmarquee.ActualWidth;
-            doubleAnimation.To = canMain.ActualWidth;
+            //doubleAnimation.To = canMain.ActualWidth;
             doubleAnimation.RepeatBehavior = RepeatBehavior.Forever;
             doubleAnimation.Duration = new Duration(TimeSpan.FromSeconds(_marqueeTimeInSeconds));
             tbmarquee.BeginAnimation(Canvas.LeftProperty, doubleAnimation);
         }
+        */
+
+        
 
         private void MainPage_Loaded(object sender, RoutedEventArgs e)
         {
-            LeftToRightMarquee();
+            //LeftToRightMarquee();
         }
 
         private void GrammarButton_Click(object sender, RoutedEventArgs e)
@@ -59,20 +64,16 @@ namespace TiengViet7
 
         private void CompositionButton_Click(object sender, RoutedEventArgs e)
         {
-            CompositionPage compositionPage = new CompositionPage();
-            compositionPage.Show();
-            this.Close();
-        }
-     
-        private void ExitButton_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
+
         }
 
-        private void ExcerciseButton_Click(object sender, RoutedEventArgs e)
+        private void ReadMoreButton_Click(object sender, RoutedEventArgs e)
         {
-            ExcercisePage excercisePage = new ExcercisePage();
-            excercisePage.Show();
+
+        }
+
+        private void ExitButton_Click(object sender, RoutedEventArgs e)
+        {
             this.Close();
         }
 

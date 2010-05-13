@@ -14,6 +14,7 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
+    <ExpressionBlendVersion>3.0.1927.0</ExpressionBlendVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -69,18 +70,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompositionPage.xaml.cs">
-      <DependentUpon>CompositionPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="CompositionPageDetail.xaml.cs">
-      <DependentUpon>CompositionPageDetail.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="ExcercisePage.xaml.cs">
-      <DependentUpon>ExcercisePage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="ExcercisePageDetail.xaml.cs">
-      <DependentUpon>ExcercisePageDetail.xaml</DependentUpon>
-    </Compile>
     <Compile Include="GrammarPage.xaml.cs">
       <DependentUpon>GrammarPage.xaml</DependentUpon>
     </Compile>
@@ -130,22 +119,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Page Include="CompositionPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="CompositionPageDetail.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="ExcercisePage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="ExcercisePageDetail.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="GrammarPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -176,13 +149,15 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\Background_01.jpg" />
+    <Resource Include="hgkt003.JPG" />
+    <Resource Include="hgkt015.JPG" />
+    <Resource Include="hgkt04_007.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\Background_02.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Images\Background_03.jpg" />
+    <Resource Include="6.jpg" />
+    <Resource Include="hgkt04_006.jpg" />
+    <Resource Include="Photoshop_074.jpg" />
+    <Resource Include="Photoshop_076.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
