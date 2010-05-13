@@ -1,5 +1,0 @@
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DTO\bin\Debug\DTO.dll
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DTO\bin\Debug\DTO.pdb
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DTO\obj\Debug\ResolveAssemblyReference.cache
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DTO\obj\Debug\DTO.dll
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DTO\obj\Debug\DTO.pdb
