@@ -1,7 +1,0 @@
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DAO.dll
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DAO.pdb
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DTO.dll
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DTO.pdb
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\obj\Debug\ResolveAssemblyReference.cache
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\obj\Debug\DAO.dll
-E:\Study\Project\tiengvietlop7\tiengvietlop7\Source code\TiengViet7\DAO\obj\Debug\DAO.pdb
