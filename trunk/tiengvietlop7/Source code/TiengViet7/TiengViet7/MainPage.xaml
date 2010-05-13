@@ -1,7 +1,7 @@
 ﻿<Window x:Class="TiengViet7.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    Title="Chương Trình Dạy Tiếng Việt Lớp 7" Height="768" Width="1024" WindowState="Maximized" WindowStyle="None" Loaded="MainPage_Loaded">
+    Title="Chương Trình Dạy Tiếng Việt Lớp 7" Height="768" Width="1024" WindowStartupLocation="CenterScreen" WindowStyle="None" Loaded="MainPage_Loaded">
     <Window.Background>
         <ImageBrush ImageSource="/Images/Background_01.jpg" Stretch="Fill" />
     </Window.Background>

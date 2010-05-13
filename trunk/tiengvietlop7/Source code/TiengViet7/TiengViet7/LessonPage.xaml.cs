@@ -26,6 +26,8 @@ namespace TiengViet7
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
+            MainPage mainPage = new MainPage();
+            mainPage.Show();
             this.Close();
         }
 
@@ -52,6 +54,7 @@ namespace TiengViet7
         {
             LessonPageDetail lessonPageDetail = new LessonPageDetail();
             lessonPageDetail.Show();
+            this.Close();
         }
     }
 }

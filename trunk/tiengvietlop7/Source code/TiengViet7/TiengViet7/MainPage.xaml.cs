@@ -47,18 +47,21 @@ namespace TiengViet7
         {
             GrammarPage grammarPage = new GrammarPage();
             grammarPage.Show();
+            this.Close();
         }
 
         private void LessonButton_Click(object sender, RoutedEventArgs e)
         {
             LessonPage lessonPage = new LessonPage();
             lessonPage.Show();
+            this.Close();
         }
 
         private void CompositionButton_Click(object sender, RoutedEventArgs e)
         {
             CompositionPage compositionPage = new CompositionPage();
             compositionPage.Show();
+            this.Close();
         }
      
         private void ExitButton_Click(object sender, RoutedEventArgs e)
@@ -70,6 +73,7 @@ namespace TiengViet7
         {
             ExcercisePage excercisePage = new ExcercisePage();
             excercisePage.Show();
+            this.Close();
         }
 
     }
