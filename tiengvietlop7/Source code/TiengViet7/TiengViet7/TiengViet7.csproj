@@ -72,8 +72,14 @@
     <Compile Include="GrammarPage.xaml.cs">
       <DependentUpon>GrammarPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GrammarPageDetail.xaml.cs">
+      <DependentUpon>GrammarPageDetail.xaml</DependentUpon>
+    </Compile>
     <Compile Include="LessonPage.xaml.cs">
       <DependentUpon>LessonPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LessonPageDetail.xaml.cs">
+      <DependentUpon>LessonPageDetail.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -116,7 +122,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="GrammarPageDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="LessonPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LessonPageDetail.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
