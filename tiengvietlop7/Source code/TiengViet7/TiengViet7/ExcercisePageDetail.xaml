@@ -1,0 +1,13 @@
+﻿<Window x:Class="TiengViet7.ExcercisePageDetail"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ExcercisePageDetail" Height="768" Width="1024" WindowState="Maximized" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/Background_02.jpg" Stretch="Fill" />
+    </Window.Background>
+    <Grid>
+        <Rectangle Margin="24,61,49,109" Name="rectangle1" Stroke="#99FFFFFF" StrokeThickness="5" Fill="#88000000" RadiusX="25" RadiusY="25" />
+        <TextBlock Margin="56,89,72,161" Name="textBlock1" Text="Load bai học len day" FontSize="72" Foreground="Cyan" />
+        <Button Style="{DynamicResource GlassButton}" Name="BackButton" Click="BackButton_Click" Height="92" Margin="373,0,387,1" VerticalAlignment="Bottom">Back</Button>
+    </Grid>
+</Window>

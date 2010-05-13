@@ -7,7 +7,7 @@
     </Window.Background>
     <Grid>
         <Rectangle Margin="24,61,49,132" Name="rectangle1" Stroke="#99FFFFFF" StrokeThickness="5" Fill="#88000000" RadiusX="25" RadiusY="25" />
-        <TextBlock Margin="56,89,72,183" Name="textBlock1" Text="Load bai học len day" FontSize="72" Foreground="Cyan" />
+        <TextBlock Margin="56,89,72,167" Name="textBlock1" Text="Load bai học len day" FontSize="72" Foreground="Cyan" />
         <Button Style="{DynamicResource GlassButton}" Name="BackButton" Click="BackButton_Click" Height="92" Margin="373,0,387,1" VerticalAlignment="Bottom">Back</Button>
     </Grid>
 </Window>
