@@ -47,10 +47,13 @@ namespace TiengViet7
         {
             ExcercisePageDetail excercisePageDetail = new ExcercisePageDetail();
             excercisePageDetail.Show();
+            this.Close();
         }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
+            MainPage mainPage = new MainPage();
+            mainPage.Show();
             this.Close();
         }
     }

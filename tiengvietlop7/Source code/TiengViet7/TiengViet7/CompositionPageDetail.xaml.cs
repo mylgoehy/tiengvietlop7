@@ -25,6 +25,8 @@ namespace TiengViet7
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
+            CompositionPage compositionPage = new CompositionPage();
+            compositionPage.Show();
             this.Close();
         }
     }

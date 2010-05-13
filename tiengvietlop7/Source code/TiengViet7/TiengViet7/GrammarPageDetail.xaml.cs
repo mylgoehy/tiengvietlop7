@@ -25,6 +25,8 @@ namespace TiengViet7
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
+            GrammarPage grammarPage = new GrammarPage();
+            grammarPage.Show();
             this.Close();
         }
     }
