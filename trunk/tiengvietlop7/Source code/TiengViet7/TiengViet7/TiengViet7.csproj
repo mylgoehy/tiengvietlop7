@@ -69,6 +69,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompositionPage.xaml.cs">
+      <DependentUpon>CompositionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CompositionPageDetail.xaml.cs">
+      <DependentUpon>CompositionPageDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExcercisePage.xaml.cs">
+      <DependentUpon>ExcercisePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExcercisePageDetail.xaml.cs">
+      <DependentUpon>ExcercisePageDetail.xaml</DependentUpon>
+    </Compile>
     <Compile Include="GrammarPage.xaml.cs">
       <DependentUpon>GrammarPage.xaml</DependentUpon>
     </Compile>
@@ -118,6 +130,22 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Page Include="CompositionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CompositionPageDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExcercisePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExcercisePageDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="GrammarPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

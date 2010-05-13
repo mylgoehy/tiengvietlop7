@@ -17,8 +17,8 @@
         <Button Style="{DynamicResource GlassButton}" Margin="99,300,0,338" Name="LessonButton" Click="LessonButton_Click" HorizontalAlignment="Left" Width="305" Height="92">Văn Học</Button>
         <!-- Draw Tap Lam Van Button -->
         <Button Style="{DynamicResource GlassButton}" Margin="0,175,119,0" Name="CompositionButton" Height="92" Click="CompositionButton_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Width="305">Tập Làm Văn</Button>
-        <!-- Draw Doc Them Button -->
-        <Button Style="{DynamicResource GlassButton}" Margin="0,300,119,338" Name="ReadMoreButton" Click="ReadMoreButton_Click" HorizontalAlignment="Right" Width="305" Height="92">Đọc Thêm</Button>
+        <!-- Draw luyen tap Button -->
+        <Button Style="{DynamicResource GlassButton}" Margin="0,300,119,338" Name="ExcerciseButton" Click="ExcerciseButton_Click" HorizontalAlignment="Right" Width="305" Height="92">Luyện Tập</Button>
         <!-- Draw Exit Button -->
         <Button Style="{DynamicResource GlassButton}" Margin="0,0,119,42" Name="ExitButton" Click="ExitButton_Click" Height="92" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="305">Thoát</Button>
     </Grid>

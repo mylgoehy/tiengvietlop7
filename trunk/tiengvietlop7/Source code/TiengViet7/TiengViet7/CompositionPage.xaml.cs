@@ -15,11 +15,11 @@ using System.Windows.Media.Animation;
 namespace TiengViet7
 {
     /// <summary>
-    /// Interaction logic for MainPage.xaml
+    /// Interaction logic for CompositionPage.xaml
     /// </summary>
-    public partial class MainPage : Window
+    public partial class CompositionPage : Window
     {
-        public MainPage()
+        public CompositionPage()
         {
             InitializeComponent();
         }
@@ -38,39 +38,20 @@ namespace TiengViet7
             tbmarquee.BeginAnimation(Canvas.LeftProperty, doubleAnimation);
         }
 
-        private void MainPage_Loaded(object sender, RoutedEventArgs e)
+        private void CompositionPage_Loaded(object sender, RoutedEventArgs e)
         {
             LeftToRightMarquee();
         }
 
-        private void GrammarButton_Click(object sender, RoutedEventArgs e)
-        {
-            GrammarPage grammarPage = new GrammarPage();
-            grammarPage.Show();
-        }
-
-        private void LessonButton_Click(object sender, RoutedEventArgs e)
-        {
-            LessonPage lessonPage = new LessonPage();
-            lessonPage.Show();
-        }
-
-        private void CompositionButton_Click(object sender, RoutedEventArgs e)
-        {
-            CompositionPage compositionPage = new CompositionPage();
-            compositionPage.Show();
-        }
-     
-        private void ExitButton_Click(object sender, RoutedEventArgs e)
+        private void BackButton_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
         }
 
-        private void ExcerciseButton_Click(object sender, RoutedEventArgs e)
+        private void Bai_01_Click(object sender, RoutedEventArgs e)
         {
-            ExcercisePage excercisePage = new ExcercisePage();
-            excercisePage.Show();
+            CompositionPageDetail compositionPageDetail = new CompositionPageDetail();
+            compositionPageDetail.Show();
         }
-
     }
 }
