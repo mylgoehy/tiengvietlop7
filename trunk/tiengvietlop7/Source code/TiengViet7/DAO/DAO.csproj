@@ -45,8 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaiHocDao.cs" />
+    <Compile Include="BaiHocVanHocDao.cs" />
+    <Compile Include="BaiTapDao.cs" />
+    <Compile Include="CauHoiTuLuanDao.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="DoanVanDao.cs" />
+    <Compile Include="DocHieuDao.cs" />
+    <Compile Include="LT_XML.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VanBanDao.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTO\DTO.csproj">
