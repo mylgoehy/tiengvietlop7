@@ -1,0 +1,9 @@
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\bin\Debug\BUS.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\bin\Debug\BUS.pdb
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\bin\Debug\DAO.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\bin\Debug\DTO.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\bin\Debug\DAO.pdb
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\bin\Debug\DTO.pdb
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\obj\Debug\BUS.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\BUS\obj\Debug\BUS.pdb
