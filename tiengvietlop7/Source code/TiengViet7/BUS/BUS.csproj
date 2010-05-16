@@ -48,7 +48,6 @@
     <Compile Include="BaiHocBus.cs" />
     <Compile Include="BaiTapBus.cs" />
     <Compile Include="CauHoiTuLuanBus.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="DoanVanBus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VanBanBus.cs" />

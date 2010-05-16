@@ -1,0 +1,7 @@
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DAO.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DAO.pdb
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DTO.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\bin\Debug\DTO.pdb
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\obj\Debug\DAO.dll
+C:\Users\Sky1\Desktop\tiengvietlop7\trunk\tiengvietlop7\Source code\TiengViet7\DAO\obj\Debug\DAO.pdb
