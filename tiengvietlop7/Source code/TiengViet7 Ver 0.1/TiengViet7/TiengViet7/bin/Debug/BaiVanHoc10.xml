@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BAIHOC SoThuTu = '10'>
+	<BAIHOCVANHOC SoThuTu = '1' LoaiBaiHocVanHoc = 'Chinh thuc'>
+		<VANBAN TieuDe = 'CẢM NGHĨ TRONG ĐÊM THANH TĨNH' PhuDe = 'Bai 10_1.jpg' AmThanh = '10a.wav'>
+			<DOANVAN NoiDung = '(Phiên âm)
+Sàng tiền minh nguyệt quang, 
+Nghi thị địa thượng sương. 
+Cử đầu vọng minh nguyệt, 
+Đê đầu tư cố hương. 
+
+(Dịch nghĩa)
+Ánh trăng sáng đâu giường, 
+Ngỡ là sương trên mặt đất. 
+Ngẩng đầu ngắm vầng trăng sáng, 
+Cúi đầu nhớ quê cũ.
+
+(Dịch thơ)
+Đầu giường ánh trăng rọi, 
+Ngỡ mặt đất phủ sương. 
+Ngẩng đầu nhìn trăng sáng, 
+Cúi đầu nhớ cố hương.'
+			/>
+			<DOANVAN NoiDung = ' (Tĩnh: im lặng, yên tĩnh, dạ : đêm, tứ: ý tứ, cảm nghĩ. Sàng: giường, tiền: trước, minh: sáng, nguyệt : trăng, quang: ánh sáng. Nghi: ngờ, thị: là, thượng: trên, địa: đất. Cử: cất lên, nâng lên, vọng: trông xa. Đê: cúi xuống, tư: lo nghĩ, nhớ, cố: cũ, hương: làng, quê hươn.)
+
+(*) Có người nói thơ Lý Bạch tràn ngập ánh trăng. Hình ảnh trăng trong thơ Lý Bạch hết sức đa dạng, ý nghĩa cũng vô cùng phong phú. Chủ đề của bài thơ rất quen thuộc: “Vọng nguyệt hoài hương” (trông trăng nhớ quê), cách thể hiện rất giản dị mà độc đáo. Thủa nhỏ, ông thường lên đỉnh núi Nga Mi ở quê nhà để ngắm trăng. Từ 25 tuổi, Lý Bạch đã xa quê và xa mãi. Bởi vậy cứ mỗi lần ngắm trăng là nhà thơ lại nhớ đến quê nhà. Bài thơ được viết theo hình thức cổ thể, một thể thơ trong đó mỗi câu thường có từ 5 đến 7 chữ, song không bị những quy tắc chặt chẽ về niêm luật và đối ràng buộc.'
+			/>
+		</VANBAN>
+		<DOCHIEU>
+			<BAITAP SoThuTu = '1'>
+				<CAUHOI SoThuTu = '1' NoiDung = '1. Có người cho rằng trong bài thơ Tĩnh dạ tứ, hai câu đầu tà thuần túy tả cảnh, hai câu cuối là thuần túy tả tình. Em có tán thành ý kiến đó không? Vì sao?
+
+ (Gợi ý: 
+ - Phải chăng trong hai câu đầu hoàn toàn không có suy tư, cảm nghĩ của con người?
+ - Và phải chăng hai câu cuối là tả tình thuần túy?
+ - Từ sự phân tích trên, rút ra kết luận về mối quan hệ giữa cảnh và tình trong bài thơ này)
+
+'
+				/>
+			</BAITAP>
+			<BAITAP SoThuTu = '2'>
+				<CAUHOI SoThuTu = '1' NoiDung = '2. Tuy không phải là một bài thơ đường luật, song Tĩnh dạ tứ cũng sử dụng phép đối. 
+a) So sánh về mặt từ loại của các chữ tương ứng ở hai câu cuối để bước đầu hiểu thế nào là phép đối. 
+b) Phân tích tác dụng của phép đối ấy trong việc biểu hiện tình cảm quê hương của tác giả.
+
+'
+				/>
+			</BAITAP>
+			<BAITAP SoThuTu = '3'>
+				<CAUHOI SoThuTu = '1' NoiDung = '3. Dựa vào bốn động từ nghi (ngỡ là), cử (ngẩng), đê (cúi) và tư (nhớ) để chỉ ra sự thống nhất, liền mạch của suy tư, cảm xúc trong bài thơ.'/>
+			</BAITAP>
+		</DOCHIEU>
+	</BAIHOCVANHOC>
+	<BAIHOCVANHOC SoThuTu = '2' LoaiBaiHocVanHoc = 'Chinh thuc'>
+		<VANBAN TieuDe = 'NGẪU NHIÊN VIẾT NHÂN BUỔI MỚI VỀ QUÊ' PhuDe = 'Bai 10_2.jpg' AmThanh = '10b.wav'>
+			<DOANVAN NoiDung = '(Phiên âm)
+Thiếu tiểu li gia, lão đại hồi, 
+Hương âm vô cải, mấn mao tồi. 
+Nhi đồng tương kiến, bất tương thức,
+Tiếu vấn: Khách tòng hà xứ lai?
+
+(Dịch nghĩa)
+Rời nhà từ lúc còn trẻ, già mới quay về, 
+Giọng quê không đổi, nhưng tóc mai đã rụng. 
+Trẻ còn gặp mặt, không quen biết, 
+Cười hỏi: Khách ở nơi nào đến?
+
+(Dịch thơ)
+Khi đi trẻ, lúc về già
+Giọng quê vẫn thế, tóc đà khác bao. 
+Trẻ con nhìn lại không chào
+Hỏi rằng: Khách ở chốn nào lại chơi?'
+			/>
+			<DOANVAN NoiDung = '(Hồi: trở về, hương: làng, quê hương, ngẫu: tình cờ, ngẫu nhiên, thư: chép, viết, ghi lại. Nhi đồng: trẻ con, bất: không, thức: biết, quen nhau, tòng: từ, hà xứ: nơi nào, lai: tới, đến.)
+
+(*) Hạ Tri Chương (659 - 744), tự Quý Chân, hiệu Tứ Minh cuồng khách, quê ở Vĩnh Hưng, Việt Châu (nay thuộc huyện Tiên Sơn, tỉnh chiết Giang), đỗ Tiến sĩ năm 695, sinh sống, học tập và làm quan trên 50 năm ở kinh đô Trường An, rất được Đường Huyền Tông vị nể. Lúc xin từ quan về quê làm đạo sĩ, vua có tặng thơ, thái tử và các quan đều đưa tiễn. Ông là bạn vong niên của thi hào Lí Bạch, từng gọi Lí Bạch là “Trích Tiên” (tiên bị đày) . Thích uống rượu, tính tình phóng khoáng, ông còn để lại 20 bài thơ, trong đó hai bài Hồi hương ngẫu thư là nổi tiếng nhất. Bài được chọn để học là bài 1.'
+			/>
+		</VANBAN>
+		<DOCHIEU>
+			<BAITAP SoThuTu = '1'>
+				<CAUHOI SoThuTu = '1' NoiDung = '1. Qua tiêu đề bài thơ, có thể thấy sự biểu hiện tình quê hương ở bài này có gì độc đáo?
+ (Gợi ý: So sánh với tình huống thể hiện tình quê hương trong bài thơ tĩnh dạ tứ.)
+ 
+'
+				/>
+			</BAITAP>
+			<BAITAP SoThuTu = '2'>
+				<CAUHOI SoThuTu = '1' NoiDung = '2. Chứng minh hai câu đầu đã dùng phép đối trong câu. Nêu tác dụng của việc dùng phép đối ấy. 
+Lưu ý: Ở thơ ngũ ngôn và thất ngôn, số chữ của hai vế đối nhau trong câu không bằng nhau, tuy vậy, xét về mặt từ loại và cú pháp vẫn có thể đối rất chỉnh.
+
+'				/>
+			</BAITAP>
+			<BAITAP SoThuTu = '3'>
+				<CAUHOI SoThuTu = '1' NoiDung = '3. Sự biểu hiện của tình quê hương ở hai câu trên và hai câu dưới có gì khác về giọng điệu.'/>
+			</BAITAP>
+		</DOCHIEU>
+	</BAIHOCVANHOC>
+</BAIHOC>

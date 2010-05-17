@@ -1,0 +1,82 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Class="TiengViet7.LessonPage"
+    Title="LessonPage" WindowStartupLocation="CenterScreen" Height="768" Width="1024" WindowStyle="None" Loaded="LessonPage_Loaded" mc:Ignorable="d" ResizeMode="CanResize">
+    <Window.Background>
+        <ImageBrush ImageSource="Images\200607060814035.jpg" Stretch="Fill" />
+    </Window.Background>
+    <Canvas Height="768" Width="1024" Margin="-7.5,-8.75,-8.5,-7.25">
+    	<TextBlock x:Name="Title1" Height="28" Text="TieuDe" TextWrapping="Wrap" FontFamily="Times New Roman" FontSize="21.333" Foreground="Red" Width="462" Canvas.Left="234" Canvas.Top="20"/>
+    	<Image Width="68" Height="68" Source="Images\restart.png" Stretch="Fill" Canvas.Left="38" Canvas.Top="677" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+        
+            <TreeView x:Name="TreeView1" Width="168" Height="581" Canvas.Left="16.667" Canvas.Top="84.491" SelectedItemChanged="TreeView1_SelectedItemChanged">
+            <TreeViewItem Header="Bài 1" FontSize="18" Tag="BaiHocDTO" Name="Bai1" />
+            <TreeViewItem Header="Bài 2" FontSize="18" Name="Bai2" />
+            <TreeViewItem Header="Bài 3" FontSize="18" Name="Bai3" />
+                <TreeViewItem FontSize="18" Header="Bài 4" Name="Bai4" />
+                <TreeViewItem FontSize="18" Header="Bài 5" Name="Bai5" />
+                <TreeViewItem FontSize="18" Header="Bài 6" Name="Bai6" />
+                <TreeViewItem FontSize="18" Header="Bài 7" Name="Bai7" />
+                <TreeViewItem FontSize="18" Header="Bài 8" Name="Bai8" />
+                <TreeViewItem FontSize="18" Header="Bài 9" Name="Bai9" />
+                <TreeViewItem FontSize="18" Header="Bài 10" Name="Bai10" />
+                <TreeViewItem FontSize="18" Header="Bài 11" Name="Bai11" />
+                <TreeViewItem FontSize="18" Header="Bài 12" Name="Bai12" />
+                <TreeViewItem FontSize="18" Header="Bài 13" Name="Bai13" />
+                <TreeViewItem FontSize="18" Header="Bài 14" Name="Bai14" />
+                <TreeViewItem FontSize="18" Header="Bài 15" Name="Bai15" />
+                <TreeViewItem FontSize="18" Header="Bài 16" Name="Bai16" />
+                <TreeViewItem FontSize="18" Header="Bài 17" Name="Bai17" />
+                <TreeViewItem FontSize="18" Header="Bài 18" Name="Bai18" />
+                <TreeViewItem FontSize="18" Header="Bài 19" Name="Bai19" />
+                <TreeViewItem FontSize="18" Header="Bài 20" Name="Bai20" />
+                <TreeViewItem FontSize="18" Header="Bài 21" Name="Bai21" />
+                <TreeViewItem FontSize="18" Header="Bài 22" Name="Bai22" />
+                <TreeViewItem FontSize="18" Header="Bài 23" Name="Bai23" />
+                <TreeViewItem FontSize="18" Header="Bài 24" Name="Bai24" />
+                <TreeViewItem FontSize="18" Header="Bài 25" Name="Bai25" />
+                <TreeViewItem FontSize="18" Header="Bài 26" Name="Bai26" />
+                <TreeViewItem FontSize="18" Header="Bài 27" Name="Bai27" />
+                <TreeViewItem FontSize="18" Header="Bài 28" Name="Bai28" />
+                <TreeViewItem FontSize="18" Header="Bài 29" Name="Bai29" />
+                <TreeViewItem FontSize="18" Header="Bài 30" Name="Bai30" />
+                <TreeViewItem FontSize="18" Header="Bài 31" Name="Bai31" />
+                <TreeViewItem FontSize="18" Header="Bài 32" Name="Bai32" />
+                <TreeViewItem FontSize="18" Header="Bài 33" Name="Bai33" />
+                <TreeViewItem FontSize="18" Header="Bài 34" Name="Bai34" />
+            </TreeView>
+        <Slider Canvas.Left="393" Canvas.Top="680.5" Height="25" Name="songTrack" Width="400" ValueChanged="songTrack_ValueChanged" />
+        <Button Canvas.Left="505" Canvas.Top="709.5" Height="28" Name="button1" Width="69" Click="button1_Click_1">Play</Button>
+        <Button Canvas.Left="599" Canvas.Top="709.5" Height="28" Name="button2" Width="69" Click="button2_Click_1">Stop</Button>
+        <TabControl Width="808.167" Height="613.491" Canvas.Left="194" Canvas.Top="52">
+        	<TabItem Header="Hình ảnh" Height="30" Width="80" FontSize="16">
+        		<Grid>
+        			<Image x:Name="Image1" Margin="8">
+        				<Image.OpacityMask>
+        					<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+        						<GradientStop Color="Black" Offset="0"/>
+        						<GradientStop Color="White" Offset="1"/>
+        					</LinearGradientBrush>
+        				</Image.OpacityMask>
+        			</Image>
+        		</Grid>
+        	</TabItem>
+        	<TabItem Header="Bài học" FontSize="16" Width="80" Height="30">
+        		<Grid>
+        			<TextBox x:Name="textBox1" FontFamily="Times New Roman" FontSize="18" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True" Margin="8" />
+        		</Grid>
+        	</TabItem>
+        	<TabItem Header="Chú thích" FontSize="16" Width="80" Height="30">
+        		<Grid>
+        			<TextBox x:Name="textBox2" FontFamily="Times New Roman" FontSize="18" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True" Margin="8" />
+        		</Grid>
+        	</TabItem>
+        	<TabItem Header="Đọc hiểu" Width="80" Height="30" FontSize="16">
+        		<Grid>
+        			<TextBox x:Name="textBox3" FontFamily="Times New Roman" FontSize="18" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" IsReadOnly="True" Margin="8" />
+        		</Grid>
+        	</TabItem>
+        </TabControl>
+    </Canvas>
+</Window>
