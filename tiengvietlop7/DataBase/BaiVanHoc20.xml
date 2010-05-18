@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BAIHOC SoThuTu = '20'>
+	<BAIHOCVANHOC SoThuTu = '1' LoaiBaiHocVanHoc = 'Chinh thuc'>
+		<VANBAN TieuDe = 'TINH THẦN YÊU NƯỚC CỦA NHÂN DÂN TA(*)' PhuDe = 'Hồ Chí Minh,trong Hồ Chí Minh toàn toàntập,tập 6,NXB sự thật,Hà Nội,1986' AmThanh = '18.wav'>
+			<DOANVAN NoiDung = 'Dân ta có long nồng nàn yêu nước.Đó là truyền thống quý báo của ta.Từ xưa đến nay,mỗi khi tổ quốc bị xâm lăng,thì tinh thần ấy lại sôi nổi,nó thành một  làn song vô cùng mạnh mẽ,to lớn,nó lướt qua mọi nguy hiểm,khó khăn,nó nhấn chìm tất cả lũ bán nước và cướp nước.
+	Lịch sử đã có nhiều cuộc kháng chiến vĩ đại chứng tỏ tinh thần yêu nước của nhân dân.Chúng ta có quyền tự hào vì những trang lịch sử vẻ vang thời đại Bà trưng,Bà triệu,Trần Hưng Đạo,Lê Lợi,Quang Trung,…Chúng ta phải ghi nhớ công lao của các vị anh hung dân tộc,vì các vị ấy là tiêu biểu của một dân tộc anh hung.
+	Đồng bào ta ngày nay cũng rất xứng đáng với tổ tiên ta ngày trước.Tứ các cụ già tóc bạc đến các cháu nhi đồng trẻ thơ,tứ những kiều bào(1)ở nước ngoài đến những đồng bào ở vùng tạm bị chiếm(2),từ nhân dân miền ngược đến miền xuôi,ai cũng một long nồng nàn yêu nước ,giết giặc.Từ những chiến sĩ ngoài mặt trận chịu đói mấy ngày để bám sát lấy giặc đặng(3) tiêu diệt giặc,đến những công chức(4) ở hậu phương(5) nhịn ăn để ủng hộ bộ đội,từ những phụ nữ khuyên chồng con di tong quân mà mình thì xung phong giúp việc vận tải,cho đến các bà mẹ chiến sỉ săn sóc yêu thương bộ đội như con đẻ của mình.Từ những nam nữ công nhân nông dân thi đua tăng gia sản xuất,không quản khó nhọc để giúp một phần váo kháng chiến,cho đến những đồng bào điền chủ(6)quyền đất ruộng cho chính phủ,…Những cử chỉ cao quý đó,tuy khác nhau nơi việc làm,nhưng đều giống nhau nơi long nồng nàn yêu nước.
+	Tinh thần yeu nước như các thứ của quý.Có khi được trưng bày trong tủ kính,trong bình pha lê,rõ rang dể thấy.Nhưng cũng có khi cất giấu kín đáo trong rương(7),trong hòm.Bổn phận của chúng ta là phải ra sức giả thích,tuyên truyền,tổ chức,lãnh đạo,làm cho tinh thần yêu nước của tất cả mọi người đều được thực hành vào công việc yêu nước,công việc kháng chiến.'
+			/>
+			<DOANVAN NoiDung = '(*)Bài văn trích trong báo cáo chính trị của chủ tịch Hồ Chí Minh tại đại hội lần II,tháng 2 năm 1951 của đảng lao động việt nam(tên gọi từ năm 1951 đến năm 1975 của đảng cộng sản việt nam hiện nay).Tên bài do người soạn sách đặt.
+(1)Kiếu bào:người dân một nước sinh sống ở nước ngoài.
+(2)Vùng tạm bị chiếm:vùng đất đang tạm thời bị giặc chiếm đống.Ở đây chỉ chỉ vùng bị quân xâm lược Pháp chiếm trong thời kì nhân dân ta kháng chiến chống thực dân pháp(1946-1954).
+(3).Đặng:để.
+(4).Công chức:người làm việc trong cơ quan nhà nước.
+(5).Hậu phương:vùng ở phía sau tiền tuyến,xa nơi có chiến sự,là nơi để xây dựng lực lượng,huy động sức người sức của phục vụ cho cuộc chiến đấu(hậu:sau,phương:hướng,phía)
+(6)Điền chủ:người có nhiều ruộng đất(điền:ruộng,chủ:người chủ).
+(7)Rương:hòm gỗ để đựng đồ dung.'
+			/>
+		</VANBAN>
+		<DOCHIEU>
+			<BAITAP SoThuTu = '1'>
+				<CAUHOI SoThuTu = '1' NoiDung = '1.Bài văn này nghị luận về vấn đề  gì?em hãy tìm(ở phần mở đầu)câu chốt thâu tóm nội dung vấn đề nghị luận trong bài.'
+				/>
+			</BAITAP>
+			<BAITAP SoThuTu = '2'>
+				<CAUHOI SoThuTu = '1' NoiDung = 2.tìm bố cục bài văn và lập dàn ý theo trình tự lập luận trong bài.'
+				/>
+			</BAITAP>
+			<BAITAP SoThuTu = '3'>
+				<CAUHOI SoThuTu = '1' NoiDung = '3.Để chứng minh cho nhận định:”dân ta có một lòng nồng nàn yêu nước.Đó là truyền thống quý báo của ta”,tác giả đã đưa ra những dẫn chứng nào và sắp xếp theo trình tự như thế nào ?'/>
+			</BAITAP>
+			<BAITAP SoThuTu = '4'>
+				<CAUHOI SoThuTu = '1' NoiDung = '4.Trong bài văn,tác giả đã sử dụng những hình ảnh so sánh nào?nhận xét về tác dụng của biện pháp so sánh ấy.'
+				/>
+			</BAITAP>
+				<BAITAP SoThuTu = '5'>
+				<CAUHOI SoThuTu = '1' NoiDung = '5.Đọc lại đoạn văn từ”Đồng bào ta ngày nay” đến “nơi lòng nồng nàn yêu nước”,và hãy cho biết:
+a)Câu mở đoạn và câu kết đoạn.
+b)Các dẫn chứng trong đoạn này được sắp xếp theo cách nào?
+c)Các sự việc và con người được lien kết theo mô hình:”từ…đến…”có mối quan hệ với nhau như thế nào?'
+				/>
+			</BAITAP>
+				<BAITAP SoThuTu = '6'>
+				<CAUHOI SoThuTu = '1' NoiDung = '6.Theo em,nghệ thuật nghị luận ở bài này có những đặc điểm gì nổi bật?(bố cục,chọn lọc dẫn chứng và trình tự đưa dẫn chứng,hình ảnh so sánh,…)'
+				/>
+			</BAITAP>
+		</DOCHIEU>
+	</BAIHOCVANHOC>
+</BAIHOC>
