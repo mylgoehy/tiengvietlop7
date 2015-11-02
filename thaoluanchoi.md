@@ -1,0 +1,1 @@
+Các bạn có ý kiến j thì comment
